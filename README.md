@@ -21,6 +21,10 @@ refer the paper:
 
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
+The Python Library used:
+
+[StableBaselines-3](https://stable-baselines.readthedocs.io/en/master/index.html)
+
 ## Models:
 
 - Mark I(100k TimeSteps): 
