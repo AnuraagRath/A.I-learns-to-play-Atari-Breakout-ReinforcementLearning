@@ -9,7 +9,7 @@ The game used for this Model is Atari's Breakout
 
 The game was used by downloading ROM files.
 
-[AtariGames'ROMS'](http://www.atarimania.com/roms/Roms.rar)
+[AtariMania 'ROMS'](http://www.atarimania.com/roms/Roms.rar)
 
 ![importingbreakoutGame](/pics/7.png)
 
