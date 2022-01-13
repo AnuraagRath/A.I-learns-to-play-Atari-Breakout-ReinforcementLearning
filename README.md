@@ -29,7 +29,7 @@ The Python Libraries used:
 
 ## Models:
 
-- Mark I-(100k TimeSteps): 
+- Mark I (100k TimeSteps): 
 
 The first Model is a Preliminary Model which has been trained with 100k TimeSteps.
 
@@ -39,7 +39,7 @@ The first Model is a Preliminary Model which has been trained with 100k TimeStep
 
 ![100KScore](/pics/8.png)
 
-- Mark II-(2M TimeSteps):
+- Mark II (2M TimeSteps):
 
 The Second model is an improved model that has been trained for 2 Million TimeSteps. The Performance was significantly better
 
